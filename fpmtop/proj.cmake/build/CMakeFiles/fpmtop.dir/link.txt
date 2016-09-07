@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pthread    CMakeFiles/fpmtop.dir/opt/src/fpmtop/fpmtop/src/main.cpp.o CMakeFiles/fpmtop.dir/opt/src/fpmtop/fpmtop/src/timer.cpp.o CMakeFiles/fpmtop.dir/opt/src/fpmtop/fpmtop/src/fpm.cpp.o  -o fpmtop -rdynamic -lncurses -lcurl pugixml/libpugixml.a 
