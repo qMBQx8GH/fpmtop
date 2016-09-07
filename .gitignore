@@ -1,0 +1,14 @@
+*.obj
+*.tlog
+*win32/(Debug|Release)_v140_xp/*
+*.cmake/build/*
+*.pyc
+*.suo
+*.sdf
+*.opendb*
+*.DS_Store
+*.xcscheme
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.perspective*
+*.xcodeproj/*.mode*
+*xcuserdata*
